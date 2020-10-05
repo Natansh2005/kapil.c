@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    int a;
+    printf("Writhe Hello world!\n");
+    scsnf("%d",&a);
     return 0;
 }
